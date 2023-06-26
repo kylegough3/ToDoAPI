@@ -398,3 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 ToDoAPI/appsettings.json
+/ToDoAPI/ToDoAPI/appsettings.json
